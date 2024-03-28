@@ -9,8 +9,6 @@ This repository contains the implementation of the LLM-Prop model. LLM-Prop is a
     <em>LLM-Prop architecture</em>
 </p>
 
-For more details check [our pre-print](https://doi.org/10.48550/arXiv.2310.14029). 
-
 ## Installation
 You can install LLM-Prop by following these steps:
 ```
@@ -68,10 +66,5 @@ This work is still under review and the data will be released after the review p
 
 ## Citation
 ```bibtex
-@article{rubungo2023llm,
-  title={LLM-Prop: Predicting Physical And Electronic Properties Of Crystalline Solids From Their Text Descriptions},
-  author={Rubungo, Andre Niyongabo and Arnold, Craig and Rand, Barry P and Dieng, Adji Bousso},
-  journal={arXiv preprint arXiv:2310.14029},
-  year={2023}
-}
+
 ```
