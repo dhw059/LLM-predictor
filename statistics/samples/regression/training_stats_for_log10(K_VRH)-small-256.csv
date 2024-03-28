@@ -1,0 +1,18 @@
+best_epoch,training mae loss,validation mae loss,training time,validation time
+1,0.25199362246592566,"tensor(0.1895, dtype=torch.float64)",0:00:49,0:00:01
+2,0.16054934884581734,"tensor(0.1379, dtype=torch.float64)",0:00:47,0:00:01
+3,0.13001249037972015,"tensor(0.1163, dtype=torch.float64)",0:00:47,0:00:01
+4,0.11690386584308976,"tensor(0.1144, dtype=torch.float64)",0:00:47,0:00:01
+5,0.10650223600428904,"tensor(0.0972, dtype=torch.float64)",0:00:47,0:00:01
+6,0.1005071617664785,"tensor(0.0963, dtype=torch.float64)",0:00:47,0:00:01
+7,0.0961494151913394,"tensor(0.0957, dtype=torch.float64)",0:00:48,0:00:01
+8,0.09230497043805576,"tensor(0.0904, dtype=torch.float64)",0:00:47,0:00:01
+9,0.08865705599767394,"tensor(0.0876, dtype=torch.float64)",0:00:48,0:00:01
+10,0.08636491522749445,"tensor(0.0871, dtype=torch.float64)",0:00:48,0:00:01
+11,0.08345246270144863,"tensor(0.0821, dtype=torch.float64)",0:00:47,0:00:01
+16,0.0745391354528976,"tensor(0.0800, dtype=torch.float64)",0:00:47,0:00:01
+34,0.05793596099397279,"tensor(0.0767, dtype=torch.float64)",0:00:49,0:00:02
+35,0.05887769650363842,"tensor(0.0746, dtype=torch.float64)",0:00:48,0:00:01
+36,0.05755339546207949,"tensor(0.0733, dtype=torch.float64)",0:00:48,0:00:01
+37,0.0593405552879339,"tensor(0.0724, dtype=torch.float64)",0:00:48,0:00:01
+52,0.05067240235528411,"tensor(0.0721, dtype=torch.float64)",0:00:48,0:00:01
